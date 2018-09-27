@@ -4,4 +4,3 @@ OSS SW Lab.
 ===========
 
  * 'kangminjae' 
- * example1
